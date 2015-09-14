@@ -10,13 +10,15 @@ Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Dat
 Loading C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
 Loading C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.065 seconds
+- Completed reload, in  0.097 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
@@ -24,4 +26,4 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Legio\Projects\Unity Projects\Projectorius\proto_Data\Managed\System.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 16e8 -> priority: 1 
+  Thread -> id: 19f0 -> priority: 1 
